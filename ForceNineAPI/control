@@ -1,0 +1,9 @@
+Package: com.patricktbp.forcenineapi
+Name: ForceNineAPI
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Forces legacy Discord clients to use /v9 instead of /v6.
+Maintainer: patricktbp
+Author: patricktbp
+Section: Tweaks
+Depends: mobilesubstrate
